@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307895490132",
+    "project_id": "aplikasi-pemilu-5e4a7",
+    "storage_bucket": "aplikasi-pemilu-5e4a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307895490132:android:9bc653b9014b79c12d3fc1",
+        "android_client_info": {
+          "package_name": "com.example.pemilu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLoJ5yKxaf_sAveqNsLX6Hqie7y7FiL2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
